@@ -9,3 +9,5 @@ title: "ソフトウェア工学 2026"
 # ソフトウェア工学2026
 
 git/github演習
+
+[software2026Engのリンク](https://zerozero-0-0.github.io/softwareEng2026.md)
