@@ -1,3 +1,9 @@
+---
+layout: page
+title: "SoftwareEng2026"
+permalink: /softwareEng2026/
+---
+
 ソフトウェア工学ではチーム開発で重要であるさまざまなことについて学習した。
 workout burn structureでは、プロジェクトを管理し、細分化し誰が担当するかを
 明記することで、進捗を管理しやすくするほか、期日やそれぞれのタスクのつながりを把握しやすくなる。
